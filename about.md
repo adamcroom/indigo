@@ -4,7 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p><img class="aligncenter size-full wp-image-5651 icon-container" src="http://adamcroom.com/wp-content/uploads/2017/07/groveswedding.jpg" alt="" width="150" height="150" /></p>
 <h1>Education</h1>
 <h2>M.A., Learning Technologies</h2>
 <h5>PEPPERDINE UNIVERSITY, 2015</h5>
