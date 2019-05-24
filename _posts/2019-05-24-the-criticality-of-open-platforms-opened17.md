@@ -8,8 +8,7 @@ date: 2017-10-16 10:10:41
 tags:
     - OpenEd
     - domains
-categories:
-    - blog
+category: blog
 permalink: /2017/10/the-criticality-of-open-platforms-opened17
 image:
     feature: 2348137226_2d6536745e_o.jpg
