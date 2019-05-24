@@ -1,18 +1,16 @@
 ---
+title: "The Criticality of Open Platforms"
 layout: post
-title: The Criticality of Open Platforms
-published: true
-author: adamcroom
-comments: true
 date: 2017-10-16 10:10:41
-tags:
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
     - OpenEd
     - domains
 category: blog
-permalink: /2017/10/the-criticality-of-open-platforms-opened17
-image:
-    feature: 2348137226_2d6536745e_o.jpg
+author: adamcroom
 ---
+
 _Below is a somewhat summary of the talk I gave in conjunction with Amy Collier, Daniel Lynds, and Jim Luke at OpenEd17. The tl;dr is that I&#8217;m convinced that need to start publishing analyses of the open platforms we adopt in order to bring transparency to a number of metrics to include not just data ownership and stewardship but broader metrics such as who has monetary vested interest in the success of the product. As I&#8217;ve returned home, I&#8217;ve began to construct in my head a real tangible way in which we can start to build a community to do this work, much of which is being inspired by Jon Udell and Mike Caulfield&#8217;s collaboration on Digital Polarization. If any of this sounds in the smallest bit interesting, please comment or reach out._
 
 ### Situating My &#8220;Open&#8221;
