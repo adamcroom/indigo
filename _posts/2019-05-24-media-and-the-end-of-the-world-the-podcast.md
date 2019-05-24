@@ -1,15 +1,15 @@
 ---
+title: "Media and the End of the World (The Podcast)"
 layout: post
-title: Media and the End of the World (The Podcast)
-published: true
-author: admin
-comments: true
 date: 2017-11-22 12:11:15
-tags: [ ]
-categories:
-    - jmc
-permalink: /2017/11/media-and-the-end-of-the-world-the-podcast
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- jmc
+category: blog
+author: adamcroom
 ---
+
 Recently, [Ralph Beliveau][1] and I launched a podcast called [Media and the End of the World][2]. Podcasting is a medium I&#8217;ve wanted to delve into for awhile now and after a couple false starts trying to get one going, I&#8217;m really thankful Ralph asked me to join him in this endeavor.
 
 The format is fairly simple: we do a weekly half hour podcast which covers the latest news of the media. The name of the podcast is a riff from the following:
