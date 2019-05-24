@@ -1,4 +1,3 @@
-
 ---
 title: "Indie Music and EdTech (or Indie EdTech)"
 layout: post
