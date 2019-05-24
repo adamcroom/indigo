@@ -1,4 +1,22 @@
 ---
+title: "My Podcasting Workflow with Amazon S3 and PowerPress"
+layout: post
+date: 2018-05-11 09:05:24
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: jamesfoster
+description: Markdown summary with different options
+permalink: >
+    /2018/05/my-podcasting-workflow-with-amazon-s3-and-powerpress
+---
+
+
+---
 layout: post
 title: "My Podcasting Workflow with Amazon S3 and PowerPress"
 author: admin
