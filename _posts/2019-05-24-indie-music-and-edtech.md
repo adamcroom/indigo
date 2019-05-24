@@ -21,7 +21,7 @@ The first is the story told from the music industry itself. And granted, while t
 
 But it’s been argued the Internet’s major contribution to music wasn’t wide distribution of music. In fact, [Steve Jones][3] argues this:
 
-> > The real revolution in popular music in regard to the Internet is to be found in the availability of news, information, and discussion about music and musicians facilitated by Internet media.
+>  The real revolution in popular music in regard to the Internet is to be found in the availability of news, information, and discussion about music and musicians facilitated by Internet media.
 
 You see, barriers to entry for radio and TV were so high that there was no alternative to mainstream&#8211;there was no indie&#8211; until the late 1960s brought FM radio, soon college radio, and the Internet. As the earliest online communities emerged in the 60s, music discussions thrived on systems like [PLATO][4] and the [WELL][5], it led to the creation of many newsgroups on [Usenet][6], and then the web.
 
@@ -44,7 +44,7 @@ The Midi Controller
 
 Arguably the biggest innovation in music was the MIDI controller. An independent device, most often seen in the form of a keyboard, that had 128 programmable and standardized switches. You could make these switches do anything. But it was enough structure, enough plumbing infrastructure, that you could mimic the dynamics of any sound. The point being that the artist now has the power to not only play instruments on a synthesizer, but the ability to create new sounds and distribute them amongst a community of other MIDI users. And I realize that this artist perspective is different than what one might have heard during the Napster trials by Lars Ulrich, the drummer of Metallica, who said this to a Senate committee during the Napster trials:
 
-> > We typically employ a record producer, recording engineers, programmers, assistants and, occasionally, other musicians. We rent time for months at recording studios, which are owned by small-businessmen who have risked their own capital to buy, maintain and constantly upgrade very expensive equipment and facilities. Our record releases are supported by hundreds of record companies’ employees and provide programming for numerous radio and television stations. &#8230; It’s clear, then, that if music is free for downloading, the music industry is not viable. All the jobs I just talked about will be lost, and the diverse voices of the artists will disappear.
+>  We typically employ a record producer, recording engineers, programmers, assistants and, occasionally, other musicians. We rent time for months at recording studios, which are owned by small-businessmen who have risked their own capital to buy, maintain and constantly upgrade very expensive equipment and facilities. Our record releases are supported by hundreds of record companies’ employees and provide programming for numerous radio and television stations. &#8230; It’s clear, then, that if music is free for downloading, the music industry is not viable. All the jobs I just talked about will be lost, and the diverse voices of the artists will disappear.
 
 The underlying message in what Lars was conveying was this. The recording process is large; cumbersome, and record labels are good as a means of control to these large and expensive modes of production. A loss of value in music is a loss in jobs.
 
@@ -52,7 +52,7 @@ But the data since then has simply not supported that argument. In fact, it’s 
 
 A [New York Times Magazine feature][9], which ran in August, said this:
 
-> > In the post-Napster era, there seems to have been a swing back in a more egalitarian direction. According to one source, the top 100 tours of 2000 captured 90 percent of all revenue, while today the top 100 capture only 43 percent.
+>  In the post-Napster era, there seems to have been a swing back in a more egalitarian direction. According to one source, the top 100 tours of 2000 captured 90 percent of all revenue, while today the top 100 capture only 43 percent.
 
 NY Times article 
 
@@ -92,7 +92,7 @@ Indie EdTech is not new, nor revolutionary, in the same respect that Indie music
 
 [John Markoff][18] wrote in [What the Dormouse Said: How the Sixties Counter-Culture Shaped the Personal Computer Industry][19]:
 
-> > It is impossible to explain the dazzling new technologies without understanding the lives and the times of the people who created them. The impact of the region’s heady mix of culture and technology can be seen clearly in the personal stories of many pioneers of the computer industry. Indeed, personal decisions frequently have historic consequences
+>  It is impossible to explain the dazzling new technologies without understanding the lives and the times of the people who created them. The impact of the region’s heady mix of culture and technology can be seen clearly in the personal stories of many pioneers of the computer industry. Indeed, personal decisions frequently have historic consequences
 
 Indie EdTech is many times a personal; a philosophical, decision. It’s also many times a practical; an economical, decision. Open standards are about accessibility as much as anything else.
 
