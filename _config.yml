@@ -10,6 +10,9 @@ description: Assistant Professor and Director of Digital Learning at the Univers
 external-image: false
 picture: assets/images/groveswedding.jpg
 
+# set blog post permalink
+permalink: /:year/:month/:title:output_ext
+
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
