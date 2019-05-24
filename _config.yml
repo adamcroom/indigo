@@ -63,12 +63,12 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+    adamcroom:
+        name: Adam Croom
+        bio: Assistant Professor and Director of Digital Learning at the University of Oklahoma
         external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/groveswedding.jpg
+        twitter: acroom
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
