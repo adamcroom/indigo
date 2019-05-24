@@ -1,19 +1,16 @@
 ---
+title: "Openness without penalty"
 layout: post
-title: Openness without penalty
-published: true
-author: admin
-comments: true
 date: 2016-09-26 07:09:45
-tags: [ ]
-categories:
-    - domains
-    - essays
-    - teaching
-permalink: /2016/09/openness-without-penalty
-image:
-    feature: 22123423045_8e92f0b88a_k.jpg
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- domains
+- teaching
+category: blog
+author: adamcroom
 ---
+
 _Note: On Monday, September 26, 2016, I gave a talk at Middlebury College. Below is the working transcript I wrote for the talk, though I did not actually read it. The talk can be viewed online._
 
 
