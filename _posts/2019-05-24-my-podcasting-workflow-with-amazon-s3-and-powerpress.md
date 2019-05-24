@@ -13,19 +13,6 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
-
----
-layout: post
-title: "My Podcasting Workflow with Amazon S3 and PowerPress"
-author: admin
-comments: true
-date: 2018-05-11 09:05:24
-headerImage: false
-permalink: >
-    /2018/05/my-podcasting-workflow-with-amazon-s3-and-powerpress
----
-
-
 I just hit the publish button on the season finale of [Media and the End of the World][1]. I have to say, it&#8217;s been a lot of fun to experiment with the medium from both a media and technical perspective. One thing you learn being on both sides of the production is your ticks. For instance, I&#8217;ve learned I say &#8220;you know&#8221; and &#8220;I&#8217;d be curious to hear&#8221; quite frequently.
 
 Ralph and I will be consecutively teaching abroad this summer so rather than putting the show on temporary hiatus without notice, we decided to &#8220;wrap the season,&#8221; and then we&#8217;ll come back as soon as we possibly can without feeling rushed. For the uninitiated, in most episodes of MATEOTW, we make a futile attempt to either cover the media or interview a media professional. And I have to say we&#8217;ve gotten pretty good at creating some semblance of a professional and entertaining production if I do say so myself. For the season finale, we decided to use it as an opportunity to reflect on the podcast itself, what our main takeaways were, as well as discuss some of my our top moments. This post isn&#8217;t about that, but  do feel free to listen to it!
