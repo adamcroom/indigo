@@ -1,18 +1,15 @@
 ---
+title: "Annotating EdTech Terms of Service"
 layout: post
-title: Annotating EdTech Terms of Service
-published: true
-author: admin
-comments: true
 date: 2018-04-25 10:04:07
-tags: [ ]
-categories:
-    - bits-and-bytes
-    - conferences
-permalink: /2018/04/annotating-edtech-terms-of-service
-image:
-    feature: StockSnap_NO25KUN6AI.jpg
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- conferences
+category: blog
+author: adamcroom
 ---
+
 This is part two in my [wrap up posts from OLC Innovate 2018][1]. My third and final presentation was demoing and gathering feedback on a framework and tool that [Amy Collier][2] and I have been developing over the past few months.
 
 This idea started after a panel presentation that Amy and I were on at [OpenEd 2017][3] ([my notes from my portion of that presentation are here][4]). The idea that was floating around at that specific was that institutions involved in Domain of One&#8217;s Own projects, where ownership of data is given directly to the students via a domain registration process, uniquely positions those institutions to serve as what Amy has coined as a [digital sanctuary][5], much like the recent [rise of sanctuary cities][6] in the United States. I talked about similar ideas. Mostly how, while DoOO has been often framed as the opposite of the LMS, we are now in a time where we can see its value over large public monolithic tools such as Facebook, Slack, Twitter, etc. particularly in relation to data and data privacy.
