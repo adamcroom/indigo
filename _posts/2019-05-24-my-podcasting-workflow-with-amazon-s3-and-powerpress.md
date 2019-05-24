@@ -18,12 +18,10 @@ I just hit the publish button on the season finale of [Media and the End of the 
 
 Ralph and I will be consecutively teaching abroad this summer so rather than putting the show on temporary hiatus without notice, we decided to "wrap the season," and then we'll come back as soon as we possibly can without feeling rushed. For the uninitiated, in most episodes of MATEOTW, we make a futile attempt to either cover the media or interview a media professional. And I have to say we've gotten pretty good at creating some semblance of a professional and entertaining production if I do say so myself. For the season finale, we decided to use it as an opportunity to reflect on the podcast itself, what our main takeaways were, as well as discuss some of my our top moments. This post isn't about that, but  do feel free to listen to it!
 
-  <audio
-        controls
-        src="/media/examples/t-rex-roar.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
+<audio controls>
+  <source src="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/mediaandtheendoftheworld/MATEOTW+022+-+Season+One+Finale.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
     
 Instead I wanted to give some background information into how I record, edit, host, and publicize the podcast. I'm putting a summary at the top with my entire workflow:
 
