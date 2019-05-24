@@ -5,11 +5,11 @@ date: 2018-05-11 09:05:24
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- podcasting
+- wordpress
+- aws
 category: blog
-author: jamesfoster
+author: adamcroom
 description: Markdown summary with different options
 permalink: /2018/05/my-podcasting-workflow-with-amazon-s3-and-powerpress/
 ---
