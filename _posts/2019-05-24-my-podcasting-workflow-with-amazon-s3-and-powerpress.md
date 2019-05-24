@@ -11,8 +11,6 @@ tag:
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
-permalink: >
-    /2018/05/my-podcasting-workflow-with-amazon-s3-and-powerpress
 ---
 
 
