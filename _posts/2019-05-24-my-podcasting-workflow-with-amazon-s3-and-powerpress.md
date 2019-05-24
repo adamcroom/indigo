@@ -11,6 +11,7 @@ tag:
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
+permalink: /2018/05/my-podcasting-workflow-with-amazon-s3-and-powerpress/
 ---
 
 I just hit the publish button on the season finale of [Media and the End of the World][1]. I have to say, it&#8217;s been a lot of fun to experiment with the medium from both a media and technical perspective. One thing you learn being on both sides of the production is your ticks. For instance, I&#8217;ve learned I say &#8220;you know&#8221; and &#8220;I&#8217;d be curious to hear&#8221; quite frequently.
