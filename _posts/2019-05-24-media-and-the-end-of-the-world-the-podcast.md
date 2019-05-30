@@ -2,8 +2,8 @@
 title: Media and the End of the World (The Podcast)
 layout: post
 date: 2017-11-22T12:11:15.000Z
-image: /assets/images/markdown.jpg
 headerImage: false
+projects: true
 tag:
   - jmc
 category: project
