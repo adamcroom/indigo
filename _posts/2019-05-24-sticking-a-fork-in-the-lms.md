@@ -1,20 +1,17 @@
 ---
 layout: post
-title: Sticking a Fork in the LMS
-published: true
-author: admin
-comments: true
+title: "Sticking a Fork in the LMS"
 date: 2016-05-17 04:05:23
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - jmc
+category: project
 permalink: /2016/05/sticking-a-fork-in-the-lms
-image:
-    feature: github.jpg
+author: adamcroom
 ---
+
 I had a moment of panic over the weekend. I was expecting to teach my summer course from June 14 to Aug 5. It turns out that due to an administrative error (which, quick frankly, I should have caught earlier) it was scheduled to start on Monday.
-
-
   
 It usually takes me a full eight hour day to really get my course site/D2L site turned over for the new semester. I&#8217;m mainly fighting battles with changing due dates and what not. Not to mention summer session requires me switching up content to better fit a 8 week programming schedule instead of 16 weeks. 
 
@@ -25,8 +22,6 @@ This summer, I&#8217;m hosting all the course content and assignments in a Githu
 [prpubs.github.io/summer16][2]
 
 The site is powered by a single [README.md][3] file. That&#8217;s right&#8211;ONE file. One thing that is nice about it being one file is that you can edit it directly in Github, so you don&#8217;t have to download the code itself.
-
-
 
 One thing I&#8217;m always interested in web is load speed. Time will eventually tell what the load time will be for this, but I&#8217;ve already moved 7/16 of the course and we&#8217;re at 3.7mb in size and at 776 lines of code. I did a load test and here are the early results:
 
@@ -42,19 +37,13 @@ Of course, this means that you can grab a copy (or &#8220;fork&#8221;) of the co
 
 I&#8217;ve also set the site as my homepage in D2L, so the only piece of the course that will be utilizing the native functionality of the LMS will be quizzes and gradebook.
 
-
-
 To me, this is what OER for the web should start to reflect. It won&#8217;t just be a CC bumper sticker in your website footer. Those really don&#8217;t make much more than the text really remixable. We need the web to also be _portable_.
 
 But is this the perfect solution? Nah, probably not yet. We&#8217;ve got a long way to go. As appealling as it is to me to have a course be one single file, there&#8217;s still a level of knowledge needed to really interact with it that can be deeply intimidating for someone will little to no web coding experience. I&#8217;d be much happier if Github would build a WYSIWIG editor into their web app.
 
 But am I completely out of line in this way of thinking? I don&#8217;t quite think so. Github is merely an application built on top of the open-source language of Git. There is nothing saying that there can&#8217;t be a &#8220;Github-like&#8221; application built for education that&#8217;s a lot less intimidating and utilizing familiar verbiage. Like, really, do we need to say &#8220;Commit changes?&#8221; Why can&#8217;t we just say &#8220;Save?&#8221; One example that Alan Levine referred me to is [GitBook][8], which is really slick and integrates quite nicely with Github itself. Here&#8217;s a study guide a student put together from his class notes:
 
-
-
 This means this students notes are 1.) shared 2.) forkable 3.) as well as downloadable in a variety of formats such as PDF and ePub.
-
-
 
 Again, quite brilliant for a student to do this. I&#8217;m really liking what I&#8217;m seeing from this forkable future! If you are interested in this, seriously, just create a Github account, [fork the course site][9], and tinker with it. You aren&#8217;t touching any of my own site (in fact, it&#8217;s now YOUR site) and it will give you a sense of how this whole forkable/connected copies/federated world works.
 
