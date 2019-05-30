@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Student Media and Domains
-date: {}
+date: 2017-02-17 08:02:02
 projects: true
 headerImage: false
 tag:
