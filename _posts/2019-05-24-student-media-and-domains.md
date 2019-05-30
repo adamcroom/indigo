@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Student Media and Domains
-published: true
-author: admin
-comments: true
+title: "Student Media and Domains"
 date: 2017-02-17 08:02:02
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - domains
     - jmc
     - small-thoughts
     - teaching
+category: project
 permalink: /2017/02/student-media-and-domains
+author: adamcroom
 ---
+
+
 I want to tell a quick story as an example to show how we are starting to see how investing in a simple project like Domain of One&#8217;s Own is creating a better web student ran web outside of the project itself.
 
 Back in October, I had the pleasure of meeting with the editorial board of the OU Daily, our on-campus newspaper, to demo something I had been cooking up for some time.
