@@ -1,17 +1,18 @@
 ---
 layout: post
-title: The Vinyl Subdomain
-published: true
-author: admin
-comments: true
+title: "The Vinyl Subdomain"
 date: 2016-03-28 03:03:54
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - indie-edtech
+    - music
+category: project
 permalink: /2016/03/the-vinyl-subdomain
-image:
-    feature: Screen-Shot-2016-03-28-at-3.53.58-PM.png
+author: adamcroom
+published: true
 ---
+
 Let me just start by saying we live in a really cool time in history. 🙂 I published [a blog post][1] on Saturday evening about how I noticed that [Discogs.com][2] had an API and how COOL it would be to have a site that pulled in all the data. I keep an [online record of my vinyl collection][3] there so it seemed like a half-decent idea to see if my data could be pulled into a site that I control. Well, I&#8217;m proud to say that not even 48 hours later and it exists (head over to [Let me just start by saying we live in a really cool time in history. 🙂 I published [a blog post][1] on Saturday evening about how I noticed that [Discogs.com][2] had an API and how COOL it would be to have a site that pulled in all the data. I keep an [online record of my vinyl collection][3] there so it seemed like a half-decent idea to see if my data could be pulled into a site that I control. Well, I&#8217;m proud to say that not even 48 hours later and it exists (head over to][4] if you would like to see it) thanks MOSTLY to [Tom Woodward][5] who shall be given any vinyl he&#8217;s ever wanted.
 
 For the majority of the technical specs, I recommend that you read Tom&#8217;s blog [where he brilliantly details][6] how he parsed the API into a Google Spreadsheet and then turned it into a WordPress Custom Post Type. He&#8217;s shared both the [script][7] and the [plugin][8].
