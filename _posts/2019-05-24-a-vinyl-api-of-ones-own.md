@@ -4,6 +4,7 @@ title:"A Vinyl API of One's Own"
 layout: post
 date: 2016-03-26 07:03:58
 image: /assets/images/markdown.jpg
+projects: true
 headerImage: false
 tag:
     - indie-edtech
