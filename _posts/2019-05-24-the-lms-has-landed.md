@@ -1,17 +1,18 @@
 ---
 layout: post
-title: The LMS has landed.
-published: true
-author: admin
-comments: true
+title: "The LMS has landed."
 date: 2016-07-26 11:07:23
-tags: [ ]
-categories:
-    - uncategorized
+projects: true
+headerImage: false
+tag:
+    - indie-edtech
+    - music
+category: project
 permalink: /2016/07/the-lms-has-landed
-image:
-    feature: apollo.jpg
+author: adamcroom
+published: true
 ---
+
 It was [announced][1] in late Spring that OU was moving from Design2Learn to Canvas as its primary learning management system. Since then, all forces in our Center have been pointed towards all things LMS. Being that Canvas is a much bigger, nastier beast than our sweet, innocent Domain of One&#8217;s Own initiative that I&#8217;ve been working on for the last couple of years, the reserves have been brought in.
 
 Given that the Digital Learning has been a bit nimble and creative in [making sure OU Create students felt supported][2] and [honored][3] for their work, I was asked to lead the student side of Canvas as well. I was also asked to design the landing page for the Canvas portal which is now live at [canvas.ou.edu][4].
