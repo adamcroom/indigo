@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Testing out a new grade scheme
-author: adamcroom
-comments: true
+title: "Testing out a new grade scheme"
 date: 2017-05-15 11:05:01
-tags:
+projects: false
+headerImage: false
+tag:
     - jmc
-categories:
-    - blog
+category: blog
 permalink: /2017/05/testing-out-a-new-grade-scheme
+author: adamcroom
 ---
+
 This semester, I tested out a new grading scheme for my face-to-face version of PR Publications. I&#8217;ve taught the class 10+ different times over the past few years, and while all of them have been different to some degree, this semester was different in that I completely eliminated numerical grades from the final grade equation.
 
 I want to preface by saying that I don&#8217;t believe this is possible to do in every course and every discipline. In fact, I wouldn&#8217;t recommend it for most. But for a class like mine it was the right way to go. My class has no quizzes or tests as it&#8217;s  project based. These creative design projects have small tasks that lead up to turning in the project and several of those tasks are feedback loops where students both give and get feedback from peers and myself on how to improve their project. Because of the amount of iteration that takes place before a project is turned in, the majority of students are turning in what I consider (again, very subjective) to be &#8220;A&#8221; work. Students who don&#8217;t do well in my class (and there are very few) don&#8217;t do so from a lack of talent or creative ability but usually because they simply didn&#8217;t complete the projects.
