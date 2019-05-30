@@ -1,21 +1,18 @@
 ---
 layout: post
-title: 'A Web Diet: Converting Wordpress Sites Over to Static Sites'
-published: true
-author: admin
-comments: true
+title: "A Web Diet: Converting Wordpress Sites Over to Static Sites"
 date: 2017-08-07 01:08:42
-tags: [ ]
-categories:
-    - bits-and-bytes
+projects: true
+headerImage: false
+tag:
     - domains
     - jmc
     - wordpress
-permalink: >
-    /2017/08/a-web-diet-converting-wordpress-sites-over-to-static-sites
-image:
-    feature: 32698135126_af7d516591_z.jpg
+category: project
+permalink: /2017/08/a-web-diet-converting-wordpress-sites-over-to-static-sites
+author: adamcroom
 ---
+
 Over the years, my main course web project, PR Pubs, has became one sprawling beast. For the most part, people know [prpubs.us][1] as the homepage for the course, but I haven&#8217;t actively used that space for a few semesters. Thus, in May I made it one of my summer goals to rework prpubs.us in such a way that both narrates and preserves the history of the course and the space. The story of Pubs is an epic one with many twists and turns. Once upon a time, it started as a blog feed, morphed into a full open course, vacationed for a summer on the Jekyll CMS, and is now more integrated with Canvas, our LMS. Nothing really captures this story well and for good reason: I&#8217;ve tried counting and I believe it&#8217;s existed in eight separate places since 2014. In fact, out of all the spaces, my own personal blog is probably the best representation of the evolution:
 
   * [Follow Along With My Students&#8217; Work This Semester &#8211; January 27, 2014][2]
