@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Testing out a new grade scheme
-published: true
-author: admin
+author: adamcroom
 comments: true
 date: 2017-05-15 11:05:01
-tags: [ ]
-categories:
+tags:
     - jmc
-    - teaching
+categories:
+    - blog
 permalink: /2017/05/testing-out-a-new-grade-scheme
 ---
 This semester, I tested out a new grading scheme for my face-to-face version of PR Publications. I&#8217;ve taught the class 10+ different times over the past few years, and while all of them have been different to some degree, this semester was different in that I completely eliminated numerical grades from the final grade equation.
