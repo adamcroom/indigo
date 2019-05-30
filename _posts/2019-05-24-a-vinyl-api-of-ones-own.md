@@ -1,9 +1,7 @@
 ---
 layout: post
-title:"A Vinyl API of One's Own"
-layout: post
+title: "A Vinyl API of One's Own"
 date: 2016-03-26 07:03:58
-image: /assets/images/markdown.jpg
 projects: true
 headerImage: false
 tag:
