@@ -1,16 +1,18 @@
+
 ---
 layout: post
-title: HowToCollege
-published: true
-author: admin
-comments: true
+title: "HowToCollege"
 date: 2016-06-06 11:06:13
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - domains
     - indie-edtech
+category: project
 permalink: /2016/06/howtocollege
+author: adamcroom
 ---
+
 In March, I had the opportunity to host the IndieEdTech gathering with [Eddie Maloney][1] of Georgetown and [Kristen Eschelman][2] at her place at Davidson College. As I [wrote then][3], the gathering was focused on a design sprint in small teams around personal APIs. Led by the nudging of Audrey Watters, my team&#8217;s idea focused around how do we focus on a redistribution of power to students by giving them an online community guided and nurtured by students; a space where a student could ask both what seemed like common knowledge to community insiders as well as some of life&#8217;s more complex questions. This sparked Erika Bullock, a English junior at Georgetown College, to sketch out an idea of a community platform focused around both giving and receiving.
 
 [Photo][4] is by [cogdog][5] and shared under [Creative Commons Attribution-ShareAlike 3.0 License][6]I think it&#8217;s safe to say that we were all proud of the idea and thought it could really add some value to any institutional community. Quite honestly, I think we all _also_ felt relieved to come up with _anything_ after struggling for most of the idea to articulate much of anything.
