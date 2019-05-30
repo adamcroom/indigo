@@ -4,11 +4,12 @@ layout: post
 date: 2018-05-11 09:05:24
 image: /assets/images/markdown.jpg
 headerImage: false
+projects: true
 tag:
 - podcasting
 - wordpress
 - aws
-category: blog
+category: project
 author: adamcroom
 description: Markdown summary with different options
 permalink: /2018/05/my-podcasting-workflow-with-amazon-s3-and-powerpress/
