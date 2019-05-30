@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
   - jmc
-category: projects
+category: project
 author: adamcroom
 published: true
 ---
