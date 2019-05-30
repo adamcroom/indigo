@@ -1,18 +1,17 @@
 ---
 layout: post
-title: I received a grant to adopt an open textbook!
-published: true
-author: admin
-comments: true
+title: "I received a grant to adopt an open textbook!"
 date: 2018-04-04 04:04:54
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - jmc
     - teaching
+category: project
 permalink: /2018/04/i-received-a-grant-to-adopt-an-open-textbook
-image:
-    feature: 45137200132_db1504c0bc_o.jpg
+author: adamcroom
 ---
+
 I was informed earlier this week that I was one of 13 faculty who were awarded the [Alternative Textbook Grant][1] that is provided by OU Libraries. Very cool! From the [news release][2]:
 
 > University Libraries awarded Alternative Textbook grants to 13 recipients for implementing open educational resources for their classes in the 2018-2019 academic year. The grants from these projects alone are projected to save OU students more than $850,000 over the next three years. Previous recipients of the Alternative Textbook Grant have already saved OU students over $1.9 million since the program began in 2014.
