@@ -1,13 +1,14 @@
 ---
-title: "Media and the End of the World (The Podcast)"
+title: Media and the End of the World (The Podcast)
 layout: post
-date: 2017-11-22 12:11:15
+date: 2017-11-22T12:11:15.000Z
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- jmc
-category: blog
+  - jmc
+category: projects
 author: adamcroom
+published: true
 ---
 
 Recently, [Ralph Beliveau][1] and I launched a podcast called [Media and the End of the World][2]. Podcasting is a medium I&#8217;ve wanted to delve into for awhile now and after a couple false starts trying to get one going, I&#8217;m really thankful Ralph asked me to join him in this endeavor.
