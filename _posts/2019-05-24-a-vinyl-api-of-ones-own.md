@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "A Vinyl API of One's Own"
-published: true
-author: admin
-comments: true
+title:"A Vinyl API of One's Own"
+layout: post
 date: 2016-03-26 07:03:58
-tags: [ ]
-categories:
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
     - indie-edtech
     - music
+category: project
 permalink: /2016/03/a-vinyl-api-of-ones-own
-image:
-    feature: carlzoch.adamkatie.0003.jpg
+author: adamcroom
+published: true
 ---
+
 I&#8217;ve been on a vinyl kick as of late. It happens that a lot of the records I listened to&nbsp;when I was&nbsp;[most emotionally vulnerable to trite love songs][1] are hitting their ten or fifteen year anniversary and being released/re-released on vinyl.
 
 For instance, I recently grabbed a copy of the Little Miss Sunshine soundtrack&nbsp;[Guestroom Records][2], Norman&#8217;s local independent record store. Guestroom holds a special place in my heart.&nbsp;When I got engaged to my wife, we were lucky enough to be allowed to photograph are engagement pictures inside of there:
