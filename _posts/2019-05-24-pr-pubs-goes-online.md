@@ -1,30 +1,18 @@
 ---
 layout: post
-title: PR Pubs Goes Online!
-published: true
-author: admin
-comments: true
+title: "PR Pubs Goes Online!"
 date: 2015-01-14 01:01:31
-tags:
-    - Alan Levine
-    - DS106
-    - FeedWordPress
-    - Gaylord College
-    - Jim Groom
-    - jmc3433
-    - Laura Gibbs
-    - LMS
-    - Lynda.com
-    - OU Create
-    - Reclaim Hosting
-    - wordpress
-categories:
+projects: true
+headerImage: false
+tag:
     - domains
-    - teaching
+    - jmc3433
+category: project
 permalink: /2015/01/pr-pubs-goes-online
-image:
-    feature: 15718397227_408c5f8827_k.jpg
+author: adamcroom
+published: true
 ---
+
 I&#8217;m back in the saddle with teaching PR Pubs at the Gaylord College. This semester is extra special because I&#8217;ve launched, for the first time in the college&#8217;s history, an online section of PR Pubs. The Gaylord College has not historically offered many online courses, so I was humbled when Dean Foote asked me to test out a version of it for the Spring. I built out a course site which you can peruse at [prpubs.us][1]. Currently, 25% of the course is built out and I will continue to build out content over the semester.
 
 [][1][prpubs.us][1]

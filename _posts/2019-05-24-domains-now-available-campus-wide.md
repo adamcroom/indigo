@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Domains Now Available Campus Wide at create.ou.edu
-published: true
-author: admin
-comments: true
+title: "Domains Now Available Campus Wide at create.ou.edu"
 date: 2015-08-21 03:08:24
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - domains
+category: project
 permalink: /2015/08/domains-now-available-campus-wide
-image:
-    feature: comp.jpg
+author: adamcroom
+published: true
 ---
+
 Today&#8217;s my birthday and I couldn&#8217;t ask for a better work-related birthday present. I get the opportunity to announce that what was once a small pilot called [OU Create][1], heavily modeled after the [Domain of One&#8217;s Own][2] project at the University of Mary Washington, is moving into full production. For the past year, our ability to serve everyone on campus was somewhat limited. While domains are still a relatively affordable solution, in order to serve a campus our size we are moving a &#8220;Subdomain of One&#8217;s Own&#8221; model. For free, all OU faculty, staff, and students can get a subdomain of oucreate.com or can individually purchase a domain for $12/yr, which is still the option I will be recommending to my students due to the full ownership and easy transferability.Just getting ready for the semester it&#8217;s been exciting to see the buzz on OU Create. [Nathan Gerth][3] at the [Carl Albert Center][4] has been an absolute machine. He&#8217;s had access to OU Create for all of two months and has created [six sites][5] including a [course site][6], a [virtual exhibit on model rockets][7] , and a [subject guides site][8] to give visitors insight into the thematic overview of the Carl Albert Center Congressional Archives. Several lab groups, like [this one][9] led by Thomas Neeson, which studies the impacts of global change on freshwater ecosystems, have launched virtual spaces. Another faculty member, Bob Pavlik, has also been blogging at one of my favorite OU Create domain names: [thearchitecturegarage.com][10]. Last, I&#8217;m not exactly sure the details on this one, but a student is using OU Create to create a [secret dinner society][11].
 
  

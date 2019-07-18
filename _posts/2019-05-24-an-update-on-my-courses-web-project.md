@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "An Update On My Course's Web Project"
-published: true
-author: admin
-comments: true
 date: 2014-04-03 10:04:22
-tags:
+projects: true
+headerImage: false
+tag:
     - jmc3433
-categories:
-    - uncategorized
+category: project
 permalink: /2014/04/an-update-on-my-courses-web-project
+author: adamcroom
+published: true
 ---
+
 This semester, I decided to switch PR Publications, the Gaylord College course I teach, around a bit. I spoke about this in a [previous post][1], but the main idea was that the final project students used to do, which was a web portfolio, was going to be moved to the beginning of the course, and the student&#8217;s would now be leveraging the blog portion of their portfolio to chronicle the course itself.
 
 I decided that there would be three different types of assignments students would do: 1.) weekly reflective posts for an ebook I had assigned called &#8220;[Designing for Emotion][2]&#8221; 2.) a design &#8220;blitz&#8221; were they would go across campus and document design concepts in real lifeand 3.) reflection posts on each design project, which will ultimately reside in their end-of-class portfolio. Additionally, I would create a separate blog that aggregated all of the student&#8217;s RSS feeds. To see each of these assignments, you can go to  and click the appropriate assignment tag in the sidebar.

@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Putting a Bow on PR Pubs This Semester
-published: true
-author: admin
-comments: true
+title: "Putting a Bow on PR Pubs This Semester"
 date: 2014-06-20 08:06:16
-tags:
+projects: true
+headerImage: false
+tag:
     - jmc3433
-categories:
-    - uncategorized
+category: project
 permalink: /2014/06/putting-a-bow-on-pr-pubs-this-semester
+author: adamcroom
+published: true
 ---
+
 This post is a bit overdue, but with the semester wrapping up and summer projects getting off the ground, I just haven&#8217;t dedicated the time necessary to update the ol&#8217; blog. Well good news! Friday has rolled around and the offices are quiet enough to finally write the last post on my series about the revisions that I made to the course I teach, PR Publications. You can read my previous posts under the [JMC 3433 Category][1], but a quick summary is that I decided to build a web presence specifically for the course.
 
 This semester (lets called it &#8220;Phase I&#8221; or &#8220;Version 1.0&#8221;) was for it to simply be an aggregator of the blog posts student&#8217;s made over the course of the semester. They blogged chapter responses to Aaron Walters book, &#8220;Designing for Emotion,&#8221; reflections on design assignments, they did a design blitz at the beginning of the semester, wrote new assignments for a student-generated assignment bank (both of these were DS106-inspired), and ended with a course reflection. These posts were incredibly valuable in gauging how this format worked with the students. Some common themes I saw:

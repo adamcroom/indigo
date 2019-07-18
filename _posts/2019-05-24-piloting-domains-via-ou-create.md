@@ -1,21 +1,17 @@
 ---
 layout: post
-title: Piloting Domains via OU Create
-published: true
-author: admin
-comments: true
+title: "Piloting Domains via OU Create"
 date: 2014-08-15 06:08:01
-tags:
-    - create.ou.edu
-    - "Domain of One's Own"
-    - OU Create
-    - Reclaim Hosting
-categories:
-    - uncategorized
+projects: true
+headerImage: false
+tag:
+    - domains
+category: project
 permalink: /2014/08/piloting-domains-via-ou-create
-image:
-    feature: create.png
+author: adamcroom
+published: true
 ---
+
 I’ve been involved in only a few number of projects that get me as excited as one that we are piloting this Fall. Roughly 18 months ago, inspired by projects such as [Clemson’s ePortfolio][1] project, we wanted to do something similar at OU. Hoping to find something equally as exciting, [Mark Morvant][2], myself, and others across OU started looking at initiatives at other institutions.
 
 Last Fall I saw a [presentation][3] at a conference by [Jim Groom][4] from University of Mary Washington about their initiative called “[Domain of One’s Own][5]” where UMW was exploring how what it would look like to simply give the student’s their own domain and webspace in which they could install open source applications, such as [I’ve been involved in only a few number of projects that get me as excited as one that we are piloting this Fall. Roughly 18 months ago, inspired by projects such as [Clemson’s ePortfolio][1] project, we wanted to do something similar at OU. Hoping to find something equally as exciting, [Mark Morvant][2], myself, and others across OU started looking at initiatives at other institutions.

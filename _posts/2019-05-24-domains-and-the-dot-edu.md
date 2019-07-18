@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Domains and the dot edu
-published: true
-author: admin
-comments: true
+title: "Domains and the dot edu"
 date: 2015-10-14 03:10:04
-tags: [ ]
-categories:
+projects: true
+headerImage: false
+tag:
     - domains
+category: project
 permalink: /2015/10/domains-and-the-dot-edu
-image:
-    feature: train.jpg
+author: adamcroom
+published: true
 ---
+
 [Andrea Rehn][1] was awesome enough to [post some questions][2] she has about the domain project that is beginning to ramp up at Whittier College. One thing I love about these projects is how institutions who jump into this treat it like an open-source community. My hope is that I can add both to the knowledge base and source code of these projects. One way we are doing this is through [Github][3] where folks can collaborate with us on efforts like [support documentation][4].
 
 ANYWAYS, I&#8217;ve already got a little sidetracked. Her questions focused around how these type of projects interact with the official institutional sites and infrastructure. I&#8217;m happy to talk about how we&#8217;ve thought about it at the University of Oklahoma while adding the caveat that I don&#8217;t believe that one can completely craft, or would want to craft, a totally hard and fast policy, as there are always exceptions to the rule.
