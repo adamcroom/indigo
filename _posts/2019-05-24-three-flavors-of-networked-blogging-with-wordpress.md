@@ -12,28 +12,6 @@ author: adamcroom
 published: true
 ---
 
----
-layout: post
-title: Three Flavors of Networked Blogging with Wordpress
-published: true
-author: admin
-comments: true
-date: 2015-12-15 08:12:41
-tags:
-    - Alan Levine
-    - Amy Collier
-    - DS106
-    - FeedWordPress
-    - Middlebury
-    - wordpress
-    - Wordpress MU
-categories:
-    - domains
-    - wordpress
-permalink: /2015/12/three-flavors-of-networked-blogging-with-wordpress
-image:
-    feature: A63C409DD4.jpg
----
 I&#8217;ve been helping with the launch of [MiddCreate][1], a domains project at [Middlebury][2], led by [Amy Collier][3]. One of their faculty members was interested in a multisite setup for her class, and while that&#8217;s a great approach, I wanted to offer the Middlebury folks a broader look at options for networked blogging with a particular focus on different models that WordPress affords.
 
 ## Networked, distributed sites
