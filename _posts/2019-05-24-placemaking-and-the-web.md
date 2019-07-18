@@ -7,7 +7,7 @@ headerImage: false
 tag:
     - indie-edtech
     - music
-category: blog
+category: projects
 permalink: /2017/04/placemaking-and-the-web
 author: adamcroom
 published: true
